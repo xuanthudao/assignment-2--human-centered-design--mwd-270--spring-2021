@@ -13,11 +13,11 @@ For this assignment, the entire class will work together as a team to create a w
 ## Team
 The entire class will work as a team on this project. Here are your roles:
 
-**Xuan Thu Dao**: Web Designer (WD)
-**Derek Delgado**: Front End Developer (FED)
-**Liana Glennon**: Project Manager (PM)
-**Jonathan Goldenberg**: Front End Developer (FED)
-**Maria Leyva**: Web Designer (WD)
+**Xuan Thu Dao**: Web Designer (WD)  
+**Derek Delgado**: Front End Developer (FED)  
+**Liana Glennon**: Project Manager (PM)  
+**Jonathan Goldenberg**: Front End Developer (FED)  
+**Maria Leyva**: Web Designer (WD)  
 
 ---
 ## Rules
