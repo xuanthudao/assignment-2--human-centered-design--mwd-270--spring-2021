@@ -20,6 +20,16 @@ The entire class will work as a team on this project. Here are your roles:
 **Maria Leyva**: Web Designer (WD)  
 
 ---
+
+## Responsibilities
+### Project Manager (PM)
+The PM will schedule at least ten 5 – 10-minute standups, usually on a daily basis. During each standup, the PM will check on pain points and blockers that the team is experiencing, and, rectify accordingly. For example, if one of the FEDs is stuck on a web development issue, the PM might ask the other FED to step in to help resolve the problem(s).
+
+The PM will also add/update any issues on GitHub/ZenHub to reflect the most up-to-date status of the project. Each ZenHub issue will be assigned to a specific person and be assigned story points.
+
+The PM will also plan three weekly sprints: An initial sprint ASAP, a mid-project sprint, and a final sprint the week this project is due, ideally the day before.
+
+---
 ## Rules
 * Do whatever you need to the branches of this repo, but, **do not** touch the `submission` branch.
 * Only submit files that are required by your project. Modify `.gitignore` as needed.
