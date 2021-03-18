@@ -28,3 +28,8 @@ The entire class will work as a team on this project. Here are your roles:
 Friday, 2 April 2021, at 11:59 PM.
 
 ---
+
+## Submission
+Issue a pull request into the `submission` branch by the due date.
+
+---
