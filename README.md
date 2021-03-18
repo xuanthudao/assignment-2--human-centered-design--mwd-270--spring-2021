@@ -33,6 +33,15 @@ In the mid-project sprint, the PM should ensure the project is making steady pro
 
 In the final sprint, the PM should ensure that all rules have been followed, all feedback considered, and that the web site is functional at the phone, tablet, and desktop versions.
 
+### Web Designers (WDs)
+The two WDs will design the web site using any digital tool of their choosing, including HTML/CSS. All [comps](https://www.lifewire.com/composite-comp-design-printing-1077995) (short for comprehensive design/layout) created by the design team must go in the included `comps` folder.
+
+If the WDs are using HTML/CSS to build their comps, then screen shots should be added to the `comps` folder.
+
+During the design process the WDs should include the FEDs, the PM, and friends/family to critique their work. This should be done often in order to continue fine-tunning the design work.
+
+**Note**: The web site must be designed for three breakpoints: Phone, tablet, and desktop.
+
 ---
 ## Rules
 * Every issue filed on GitHub must lead to a branch name with the following convention: `number--issue-title`. For example, if an issue filed on GitHub is titled **Implement Heading Typefaces** and has the number `3`, then the person working on this issue must create a branch called `03--implmenet-heading-typefaces`. Every issue must have a corresponding branch.
