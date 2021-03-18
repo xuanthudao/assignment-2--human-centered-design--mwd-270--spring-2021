@@ -38,6 +38,14 @@ The entire class will work as a team on this project. Here are your roles:
 
 ---
 
+## Readings
+* [What is Human-Centered Design](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
+* [Why Human Centered Design Matters](https://www.wired.com/insights/2013/12/human-centered-design-matters/)
+* [The Agile Manifesto](http://agilemanifesto.org/)
+* [What is Agile Methodology? How It Works, Best Practices, Tools](https://stackify.com/agile-methodology/)
+
+---
+
 ## Due
 Friday, 2 April 2021, at 11:59 PM.
 
