@@ -27,7 +27,11 @@ The PM will schedule at least ten 5 – 10-minute standups, usually on a dai
 
 The PM will also add/update any issues on GitHub/ZenHub to reflect the most up-to-date status of the project. Each ZenHub issue will be assigned to a specific person and be assigned story points.
 
-The PM will also plan three weekly sprints: An initial sprint ASAP, a mid-project sprint, and a final sprint the week this project is due, ideally the day before.
+The PM will also plan three weekly sprints: An initial sprint ASAP, a mid-project sprint, and a final sprint the week this project is due, ideally the day before. In the initial sprint, the entire team must agree on the topic of the web site, the content for the web site, and the deadline to submit designs for the web site.
+
+In the mid-project sprint, the PM should ensure the project is making steady progress to completion, and should make sure the project is ready to be handed to the FEDs from the WDs.
+
+In the final sprint, the PM should ensure that all rules have been followed, all feedback considered, and that the web site is functional at the phone, tablet, and desktop versions.
 
 ---
 ## Rules
