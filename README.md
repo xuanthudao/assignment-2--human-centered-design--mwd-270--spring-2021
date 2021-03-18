@@ -31,6 +31,7 @@ The PM will also plan three weekly sprints: An initial sprint ASAP, a mid-projec
 
 ---
 ## Rules
+* Every issue filed on GitHub must lead to a branch name with the following convention: `number--issue-title`. For example, if an issue filed on GitHub is titled **Implement Heading Typefaces** and has the number `3`, then the person working on this issue must create a branch called `03--implmenet-heading-typefaces`. Every issue must have a corresponding branch.
 * Do whatever you need to the branches of this repo, but, **do not** touch the `submission` branch.
 * Only submit files that are required by your project. Modify `.gitignore` as needed.
 * Use lowercase, combined with kebab case, to name _all_ folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
@@ -41,6 +42,7 @@ The PM will also plan three weekly sprints: An initial sprint ASAP, a mid-projec
 * Place all images in the `img` folder.
 * Do not remove any of the `.gitignore` files.
 * All code must adhere to the enclosed EditorConfig rules.
+* All JavaScript code must go in the anonymous function assigned to the `window.onload` event.
 * The axe plugin must report no errors.
 * ESLint must report no errors.
 * StyleLint must report no errors.
