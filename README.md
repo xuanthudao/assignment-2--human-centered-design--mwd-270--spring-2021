@@ -13,6 +13,7 @@ The entire class will work as a team on this project. Here are your roles:
 
 ---
 ## Rules
+* All code must adhere to the enclosed EditorConfig rules.
 * Only submit files that are required by your project. Modify `.gitignore` as needed.
 * Use lowercase, combined with kebab case, to name _all_ folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
 * Place all comps in the `comps` folder.
@@ -21,6 +22,10 @@ The entire class will work as a team on this project. Here are your roles:
 * Place all JavaScript in `app.js`.
 * Place all images in the `img` folder.
 * Do not remove any of the `.gitignore` files.
+* The axe plugin must report no errors.
+* ESLint must report no errors.
+* HTML must be fully valid.
+* StyleLint must report no errors.
 
 ---
 
