@@ -12,3 +12,14 @@ The entire class will work as a team on this project. Here are your roles:
 **Maria Leyva**: Web Designer (WD)
 
 ---
+## Rules
+* Only submit files that are required by your project. Modify `.gitignore` as needed.
+* Use lowercase, combined with kebab case, to name _all_ folders and files (`do-this` or `do-this.html`); no spaces in folder or file names (`not this`); no camel case (`notThis`); no snake case (`not_this`).
+* Place all comps in the `comps` folder.
+* Place all markup in `index.html`. Add HTML files as necessary.
+* Place all CSS in `style.css`.
+* Place all JavaScript in `app.js`.
+* Place all images in the `img` folder.
+* Do not remove any of the `.gitignore` files.
+
+---
