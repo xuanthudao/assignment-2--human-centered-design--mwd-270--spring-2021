@@ -78,7 +78,7 @@ Furthermore, all the coding rules listed below must be adhered to, ensuring no l
 ---
 
 ## Due
-Friday, 2 April 2021, at 11:59 PM.
+Thursday, 8 April 2021, at 8:29 AM.
 
 ---
 
